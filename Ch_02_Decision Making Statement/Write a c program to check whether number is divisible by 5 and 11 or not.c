@@ -27,4 +27,3 @@ Enter the number : 20
 Enter the number : 4
  Number is not divide
  */
-/*
